@@ -2,7 +2,7 @@
 
 The GitHub website brings together a number of different features. As a consequence, its interface is populated with access to all of them but the content available depends on each user and their particular use.
 
-This topic and the ones nested under it cover general navigation and specificities of some of the commonly accessed areas in GitHub: personal dashboard, repositories and projects.
+This topic and the ones nested under it cover general navigation and specificities of some of the [commonly accessed areas in GitHub](#commonly-accessed-areas): personal dashboard, repositories and projects.
 
 ## General navigation
 
@@ -16,14 +16,14 @@ Regardless of the feature you access, the GitHub website pages always display at
 The top navigation bar presents:
 
 - **GitHub logo**, that links to your personal dashboard page.
-- **Search or jump to...** field, that allows you to run a quick search through GutHub.
+- **Search or jump to...** field, that allows you to run a quick search through GitHub.
 - Links to specific features/pages:
   - **Pull requests**
   - **Issues**
   - **Codespaces**
   - **Marketplace**
   - **Explore**
-- **Notifications bell icon**, that links to the Notifications inbox.
+- **Notifications bell icon**, that links to the notifications inbox.
 - **Plus icon menu**, that allows you to quickly create new instances of some of the GitHub features.
 - **Personal avatar menu**, that lists access to settings, your itens and other personal options.
 
@@ -44,10 +44,15 @@ The footer usually presents:
   - **Blog**
   - **About**
 
-## Basic features
+## Commonly accessed areas
 
 ### Personal dashboard
+
+The personal dashboard is the first page you land at after logging in to GitHub website. It displays a personalized feed in the center and two sidebars with useful links. The sidebar to the left lists your repositories and recent activity, where
+as the one to the right promotes GitHub products and presents latest changes from the GitHub changelog. You can read more about this page in the specific article [About the GitHub personal dashboard](#).
 
 ### Repositories
 
 ### Projects
+
+Projects pages are the place to register and track your tasks. Using different and customizable views, based on tables or boards, you can have access to relevant information regarding work being done in different repositories. You can read more about this page in the specific article [About GitHub projects](#)
