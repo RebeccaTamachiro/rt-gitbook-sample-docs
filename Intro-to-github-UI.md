@@ -48,11 +48,12 @@ The footer usually presents:
 
 ### Personal dashboard
 
-The personal dashboard is the first page you land at after logging in to GitHub website. It displays a personalized feed in the center and two sidebars with useful links. The sidebar to the left lists your repositories and recent activity, where
-as the one to the right promotes GitHub products and presents latest changes from the GitHub changelog. You can read more about this page in the specific article [About the GitHub personal dashboard](#).
+The personal dashboard is the first page you land at after logging in to GitHub website. It displays a personalized feed in the center and two sidebars with useful links. The sidebar to the left lists your repositories and recent activity, whereas the one to the right promotes GitHub products and presents latest changes from the GitHub changelog. You can read more about this page in the specific article [About the GitHub personal dashboard](#).
 
 ### Repositories
 
+Your code that is hosted in Github is organized in different repositories. They usually use a folder structure and can also present a README file. The README file provides a description and other important information about the project and/or the files contained in the repo. You can read more about this in the specific article [About GitHub repositories](#)
+
 ### Projects
 
-Projects pages are the place to register and track your tasks. Using different and customizable views, based on tables or boards, you can have access to relevant information regarding work being done in different repositories. You can read more about this page in the specific article [About GitHub projects](#)
+Projects pages are the place to register and track your tasks. Using different and customizable views, based on tables or boards, you can have access to relevant information regarding work being done in different repositories. You can read more about this in the specific article [About GitHub projects](#)
