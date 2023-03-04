@@ -1,6 +1,6 @@
 # GitHub repositories interface
 
-In the GitHub repository pages, besides the general navigation bar and footer described in the [Intro to the GitHub user interface](/Intro-to-github-UI.md), three specific areas are displayed:
+In the GitHub repository pages, besides the general navigation bar and footer described in the [Intro to the GitHub user interface](/intro-to-github-ui.md), three specific areas are displayed:
 
 <!--- screenshot with callouts? --->
 
@@ -13,13 +13,13 @@ Depending on which option is selected from the secondary top navigation bar, the
 ## Secondary top navigation bar
 
 - [Code](#)
-- Issues
-- Pull requests
-- Actions
-- Projects
-- Wiki
-- Security
-- Insights
-- Settings
+- [Issues](#)
+- [Pull requests](#)
+- [Actions](#)
+- [Projects](#)
+- [Wiki](#)
+- [Security](#)
+- [Insights](#)
+- [Settings](#)
 
 ## Repo details sidebar

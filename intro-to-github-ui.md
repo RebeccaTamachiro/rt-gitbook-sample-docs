@@ -52,7 +52,7 @@ The personal dashboard is the first page you land at after logging in to GitHub 
 
 ### Repositories
 
-Your code that is hosted in Github is organized in different repositories. They usually use a folder structure and can also present a README file. The README file provides a description and other important information about the project and/or the files contained in the repo. You can read more about this in the specific article about the [GitHub repositories interface](/GitHub-repositories-interface.md)
+Your code that is hosted in Github is organized in different repositories. They usually use a folder structure and can also present a README file. The README file provides a description and other important information about the project and/or the files contained in the repo. You can read more about this in the specific article about the [GitHub repositories interface](/github-repository-interface.md)
 
 ### Projects
 
