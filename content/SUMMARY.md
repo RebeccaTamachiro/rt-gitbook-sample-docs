@@ -1,7 +1,13 @@
 # Table of contents
 
-* [Tutorial](README.md)
-* [Reference](reference/README.md)
-  * [Intro to the GitHub user interface](reference/intro-to-github-ui.md)
-  * [Repository code](reference/repository-code-interface.md)
-  * [GitHub repositories interface](github-repository-interface.md)
+* [README](README.md)
+
+## Reference
+
+* [GitHub user interface](reference/github-user-interface/README.md)
+  * [Intro to the GitHub user interface](reference/github-user-interface/intro-to-github-ui.md)
+  * [GitHub repositories interface](reference/github-user-interface/github-repository-interface.md)
+
+## Tutorial
+
+* [Page 1](tutorial/page-1.md)
