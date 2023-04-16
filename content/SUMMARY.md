@@ -10,4 +10,4 @@
 
 ## Tutorial
 
-* [Page 1](tutorial/page-1.md)
+* [Let's get started with your personal repository](tutorial/lets-get-started-with-your-personal-repository.md)
