@@ -11,3 +11,7 @@
 ## Tutorial
 
 * [Let's get started with your personal repository](tutorial/lets-get-started-with-your-personal-repository.md)
+
+## How-to
+
+* [How to add files to a GitHub repository](how-to/how-to-add-files-to-a-github-repository.md)
