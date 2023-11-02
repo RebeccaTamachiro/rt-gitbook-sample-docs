@@ -16,14 +16,14 @@ If you are dealing with a repo that you rarely ever need to update, or if it onl
 #### Add files on the GitHub website <a href="#_phtiazsamkrp" id="_phtiazsamkrp"></a>
 
 1. Access the repository homepage.
-2. Go to **Add file** > **Upload files**GitHub redirects you to an upload page.\
+2. Go to **Add file** > **Upload files.** GitHub redirects you to an upload page.\
 
 3. Select the files in one of the following ways:\
 
    *   Open a file explorer window on your computer and drag the items to the GitHub page.
 
        or
-   * Click **choose your files**, find the file(s) in the pop-up window and click **Open** to confirm.\
+   * Select **choose your files**, find the file(s) in the pop-up window and select **Open** to confirm.\
 
 
 ![](../.gitbook/assets/1.png)
@@ -34,7 +34,7 @@ If you are dealing with a repo that you rarely ever need to update, or if it onl
 The GitHub repository is updated with the files you have added.\
 
 
-NOTE: By default, your commit will be added to the main branch of your repository. GitHub also gives the option of creating a new branch instead. You can learn more about it in the article about how to work with branches.
+NOTE: By default, your commit will be added to the main branch of your repository. GitHub also gives the option of creating a new branch instead. You can learn more about it in the [article about how to work with branches](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches).
 
 ### Method 2: using a GUI git management tool <a href="#_h9x3wjv31ebz" id="_h9x3wjv31ebz"></a>
 
@@ -46,7 +46,7 @@ Although this process can sound complex at first, it is not that difficult to wo
 
 #### Prerequisites <a href="#_og3n64g853su" id="_og3n64g853su"></a>
 
-1. Install GitHub for desktop.
+1. [Install GitHub for desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop).
 2. Make sure you are signed in to the correct GitHub account. To confirm, access **File** > **Options** > **Accounts**
 3. Set up the repository considering one of the following scenarios:
 

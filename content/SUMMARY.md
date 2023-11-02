@@ -10,7 +10,7 @@
 
 ## Tutorial
 
-* [Let's get started with your personal repository](tutorial/lets-get-started-with-your-personal-repository.md)
+* [Get started with your personal repository](tutorial/get-started-with-your-personal-repository.md)
 
 ## How-to
 
