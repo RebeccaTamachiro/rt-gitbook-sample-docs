@@ -14,9 +14,14 @@ In this tutorial, you will learn how to create a personal GitHub repository and 
 1. Select the dropdown menu **+** on the top right corner of any GitHub page.
 2. Select **New Repository**.\
    GitHub displays a new page where you should provide the basic settings for your repo:
+   - Use the same name that appears under **Owner** as the **Repository name**.
+   <figure><img src="../.gitbook/assets/GH_Tutorial - names_match.png" alt=""><figcaption></figcaption></figure>
+   - Do not worry about the **Description** for now.
+   <figure><img src="../.gitbook/assets/GH_Tutorial - public.png" alt=""><figcaption></figcaption></figure>
+   - Make sure you have **Public** selected.
+   - Enable the **Add a README file** option.
 3. Select **Create repository** to confirm.\
    Your personal repository is created and GitHub redirects you to its specific homepage.\
-
 
 Whenever the personal repository is set to “public”, its README is also displayed on your GitHub profile.
 
@@ -37,12 +42,12 @@ Because the GitHub profile uses Markdown language, notice that whatever is next 
 Check the guide linked above if you would like to learn more about Markdown. For now, let's stick to the suggested template and use it to add content to your profile:
 
 1. Delete the GitHub introductory paragraph, starting at \<!-- and until the first item of the list you want to display.
-2.  Fill next to the emojis with information about yourself, erasing the items that are not interesting for you. For example:
+2. Fill next to the emojis with information about yourself, erasing the items that are not interesting for you. For example:
 
-    ![](../.gitbook/assets/4.png)
+   ![](../.gitbook/assets/4.png)
 
-    * Also, make sure you delete the -- > notation at the end of the list to make it cleaner.
+   - Also, make sure you delete the -- > notation at the end of the list to make it cleaner.
+
 3. Scroll down the page and commit your changes. You can use the default options that are already selected.\
-
 
 And that is it! Your customized profile README is ready!
